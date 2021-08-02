@@ -1,0 +1,16 @@
+.note
+{
+    font-size: 20px;
+    color:white;
+}
+
+.footer
+{
+    position:fixed;
+    color: black;
+    width:100%;
+    text-align: center;
+    background-color: lightgrey;
+    line-height:3;
+}
+
